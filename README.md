@@ -16,7 +16,7 @@ westsyre562@gmail.com
 - 😄 Pronouns: ...
 Mr west
 paps 
-silky oaks
+silky paps 
 
 - ⚡ Fun fact: ...
 
