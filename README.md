@@ -19,7 +19,7 @@ I'm a Software Engineering student at **Zambia University of Technology (ZUT)** 
 - **[Innovator Class](https://github.com/WESTsyre21)** — A student-driven innovation community and launchpad at ZUT, hosting Tech Expos and building the next generation of Zambian tech talent since July 2024.
 - **GeniTek** — A web development brand delivering modern, scalable digital solutions for clients.
 
-I'm also the **Lead Software Engineer** on **MOTAS** (Mine Operations Tracking & Assessment System) at **Mukanzu Tech** — an enterprise platform built for mining operations across the Zambian Copperbelt and Sub-Saharan Africa.
+
 
 I build software that solves real problems in African contexts: offline-first, low-connectivity-ready, and production-grade.
 
