@@ -1,26 +1,73 @@
-- 👋 Hi, I’m Gabriel Chikomo .T
-- 👀 I’m interested in ...
-building software and learning how to build and manage different softwares...
+<h1 align="center">Hey, I'm Gabriel Chikomo 👋</h1>
 
-- 🌱 I’m currently learning ...
-java script, java, node ja
-c#
-c++
-computer engineering 
-- 💞️ I’m looking to collaborate on ...
-creating personal chat bots that can work with almost any software 
+<p align="center">
+  <em>Software Engineering Student · Founder · Builder for Africa</em>
+</p>
 
-- 📫 How to reach me ...
-gabrielchikomo99@gmail.com 
-westsyre562@gmail.com
-- 😄 Pronouns: ...
-Mr west
-paps 
-silky paps 
+<p align="center">
+  <a href="https://linkedin.com/in/gabriel-chikomo" target="_blank">LinkedIn</a> ·
+  <a href="mailto:gabrielchikomo99@gmail.com">Email</a> ·
+  <strong>Lusaka / Copperbelt, Zambia 🇿🇲</strong>
+</p>
 
-- ⚡ Fun fact: ...
+---
 
-<!---
-WESTsyre21/WESTsyre21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+I'm a Software Engineering student at **Zambia University of Technology (ZUT)** and the founder of two initiatives:
+
+- **[Innovator Class](https://github.com/WESTsyre21)** — A student-driven innovation community and launchpad at ZUT, hosting Tech Expos and building the next generation of Zambian tech talent since July 2024.
+- **GeniTek** — A web development brand delivering modern, scalable digital solutions for clients.
+
+I'm also the **Lead Software Engineer** on **MOTAS** (Mine Operations Tracking & Assessment System) at **Mukanzu Tech** — an enterprise platform built for mining operations across the Zambian Copperbelt and Sub-Saharan Africa.
+
+I build software that solves real problems in African contexts: offline-first, low-connectivity-ready, and production-grade.
+
+---
+
+## 🔭 What I'm Working On
+
+- **MOTAS** — A full-stack mine operations tracking platform (Flutter · React · Node.js · PostgreSQL · Africa's Talking API)
+- **GeniTek** client projects — Modern e-commerce and business web applications
+- **Innovator Class** — Planning our 3rd and largest Tech Expo at ZUT
+
+---
+
+## 🌱 Currently Learning & Growing In
+
+| Area | Technologies |
+|---|---|
+| Frontend | React, Flutter |
+| Backend | Node.js, Django, FastAPI |
+| Systems | C++, C#, Java |
+| Infrastructure | Docker, PostgreSQL, Prisma |
+| Tooling | TypeScript, REST APIs, Git |
+
+---
+
+## 💡 Interests & Collaboration
+
+I'm open to collaborating on:
+- **African-context software** — offline-first apps, fintech tools, agri-tech, or anything solving local infrastructure challenges
+- **Open-source developer tooling**
+- **Student tech community initiatives** across Zambia and beyond
+
+---
+
+## 📫 Reach Me
+
+- 📧 gabrielchikomo99@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/gabriel-chikomo)
+- 🐦 Find me on X and Instagram as **@WESTsyre21**
+
+---
+
+## ⚡ Fun Fact
+
+I've been building at the intersection of innovation and community since before I could call it a startup. Innovator Class wasn't just an idea — it was a response to the gap I saw around me. Two Tech Expos in, the third is going to be the biggest yet.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WESTsyre21&show_icons=true&theme=tokyonight&hide_border=true" alt="Gabriel's GitHub Stats" />
+</p>
